@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sitaattikone/static/css/main.36cfc161.css",
+    "main.js": "/sitaattikone/static/js/main.1edfeef4.js",
+    "static/js/787.fafb9801.chunk.js": "/sitaattikone/static/js/787.fafb9801.chunk.js",
+    "index.html": "/sitaattikone/index.html",
+    "main.36cfc161.css.map": "/sitaattikone/static/css/main.36cfc161.css.map",
+    "main.1edfeef4.js.map": "/sitaattikone/static/js/main.1edfeef4.js.map",
+    "787.fafb9801.chunk.js.map": "/sitaattikone/static/js/787.fafb9801.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36cfc161.css",
+    "static/js/main.1edfeef4.js"
+  ]
+}
